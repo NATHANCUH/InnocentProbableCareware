@@ -1,5 +1,7 @@
 html {
   height: 100%;
   width: 100%;
+  background-image: url("images/r88.jpg");
+  background-size: cover;
 }
-img
+
