@@ -2,5 +2,7 @@ html {
   height: 100%;
   width: 100%;
 background-image: url("images/wasd.jpg");
-  background-size: 1000px;
+  background-size: 500px;
+  background-repeat: no-repeat;
+  padding-left: 300px;
 }
