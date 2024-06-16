@@ -5,3 +5,9 @@ html {
   background-size: cover;
 }
 
+.button{
+  font-size: 40px; 
+  background-color: white; 
+  color: red; 
+  border-color: white;
+}
